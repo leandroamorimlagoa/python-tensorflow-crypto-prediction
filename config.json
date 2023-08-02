@@ -1,0 +1,8 @@
+{
+    "DatabaseConnection": {
+        "host": "localhost",
+        "user":"---",
+        "password":"---",
+        "database":"---"
+    }
+}
